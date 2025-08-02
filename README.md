@@ -1,4 +1,8 @@
-# SCP - Containment Breach Ultimate Edition Reborn
+# SCP - Containment Breach Ultimate Edition Reborn - DX9 Fork
+
+This is very experimental! Nothing is guaranteed to work nor is it guaranteed to be finished.
+
+Uses [Blitz3D TSS DX9](https://github.com/itzslain/Blitz3D-TSS-Dx9)
 
 The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/).
 
